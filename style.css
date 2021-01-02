@@ -1,0 +1,24 @@
+*{
+ margin: 0;
+ padding: 0;
+ outline: 0;
+}
+
+.painter{
+ position: absolute;
+ left: 50%;
+ top: 50%;
+ transform: translate(-50%,-50%);
+ 
+}
+#paint{
+ border: 2px solid #212121;
+}
+
+button{
+ color: #013;
+ background-color: chartreuse;
+ padding: 13px;
+ border: 2px solid grey;
+ 
+}
